@@ -1,0 +1,5 @@
+http://localhost:8081/compunet2-2026/flights
+http://localhost:8081/compunet2-2026/airlines/by-route?origen=El%20Dorado&destino=JFK
+http://localhost:8081/compunet2-2026/airports/by-origin?origen=El%20Dorado
+http://localhost:8081/compunet2-2026/airlines/by-arrival-range?inicio=2026-03-01%2000:00:00&fin=2026-03-11%2023:59:59&aeropuerto=El%20Dorado
+http://localhost:8081/compunet2-2026/airports/top-arrivals?inicio=2026-03-01%2000:00:00&fin=2026-03-11%2023:59:59
